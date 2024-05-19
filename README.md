@@ -1,1 +1,7 @@
-# josh-skinner.github.io
+# Josh Skinner
+
+## Introduction
+
+## Current projects
+
+## Links
