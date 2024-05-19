@@ -9,7 +9,7 @@ development.
  
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](git@github.com:ddc-java-18/hello-world-josh-skinner.git)
 
 * Hello World: Android app
 
