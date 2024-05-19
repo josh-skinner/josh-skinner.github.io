@@ -15,4 +15,4 @@ development.
 
 ## Links
 
-* [LinkedIn] (www.linkedin.com/in/josh-skinner-b45a13307)
+* [LinkedIn] (www.linkedin.com/in/josh-skinner-b45a13307 of LinkedIn profile)
