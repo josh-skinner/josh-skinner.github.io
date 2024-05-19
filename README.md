@@ -14,3 +14,5 @@ development.
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn] (www.linkedin.com/in/josh-skinner-b45a13307)
